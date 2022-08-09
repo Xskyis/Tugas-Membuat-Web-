@@ -1,0 +1,68 @@
+p { 
+    text-align: left;    
+}
+.navbar-brand b { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #125B50;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+h3 {    
+    color: #125B50;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.navbar-brand h2 { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #125B50;
+    font-size: 33px;
+}
+
+#footer{    
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+body    {   
+    background-color: rgb(193, 232, 193);
+}
+
+#kontak {
+    background: #6dd19c;
+    background-blend-mode: darken;
+    box-shadow: inset;
+    padding: 40px 0px 40px 0px;
+}
+
+.footer {   
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-section {   
+    width: 20%;
+    margin: 0 auto;
+}
+
+.galleri {  
+    width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.card { 
+    background-color: rgb(211, 242, 211);
+}
+
+.lope {
+    color: #e25555;
+  }
+
